@@ -1,1 +1,1 @@
-# chat-widget
+# chat-widget-bot
